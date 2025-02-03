@@ -4,6 +4,14 @@ A powerful and customizable WYSIWYG (What You See Is What You Get) rich text edi
 
 ---
 
+## 📦 Installation
+
+To get started, install `react-word` from npm:
+
+```bash
+npm install react-word
+```
+
 ## 🚀 Features
 
 - **🎨 Smooth Animations**: Transitions and animations for toolbar actions and content changes, enhancing user interaction.
@@ -17,4 +25,3 @@ A powerful and customizable WYSIWYG (What You See Is What You Get) rich text edi
 - **🔄 Animated Interactions**: Animations on text formatting, toolbar interactions, and content updates.
 
 ---
-
