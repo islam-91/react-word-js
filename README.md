@@ -9,7 +9,7 @@ A powerful and customizable WYSIWYG (What You See Is What You Get) rich text edi
 To get started, install `react-word-js` from npm:
 
 ```bash
-npm install react-word
+npm install react-word-js
 ```
 
 ## 🚀 Features
